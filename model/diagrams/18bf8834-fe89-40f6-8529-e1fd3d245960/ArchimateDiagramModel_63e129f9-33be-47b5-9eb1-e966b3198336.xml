@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Desktop"
+    id="63e129f9-33be-47b5-9eb1-e966b3198336"
+    viewpoint="technology_usage">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="da655cae-936f-4657-b65b-f28a075af57e">
+    <bounds
+        x="636"
+        y="324"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Device"
+        href="Device_618cb16d-9b5a-4575-847a-d2ef3e68d1b8.xml#618cb16d-9b5a-4575-847a-d2ef3e68d1b8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cfa36faf-e759-4c11-a61a-0d2a3b265d3e">
+    <bounds
+        x="636"
+        y="156"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CommunicationNetwork"
+        href="CommunicationNetwork_da3faf00-f453-46d5-8ec8-ebb53330aa8f.xml#da3faf00-f453-46d5-8ec8-ebb53330aa8f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

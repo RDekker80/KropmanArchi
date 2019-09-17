@@ -1,0 +1,12 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Archi Test Model Kropman B.V."
+    id="bc513f7e-c21e-45b5-932e-ac3e481eacaf"
+    version="4.4.0">
+  <properties
+      key="MenR"
+      value="Melchior"/>
+  <properties
+      key="MenR"
+      value="Robin"/>
+</archimate:ArchimateModel>
